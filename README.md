@@ -4,21 +4,24 @@ Jwan 的可复用 AI Skill 总目录。每个 Skill 都是一个独立的 Markdo
 
 ## Skill catalog
 
-| Skill | 用途 | 独立仓库 |
-| --- | --- | --- |
-| `jwan-circular-cutout-story-poster` | 圆形照片切片故事海报 | [GitHub](https://github.com/gongjuan96-crypto/jwan-circular-cutout-story-poster) |
-| `jwan-photo-poem-poster` | 照片与插画配对、下方诗意文案 | [GitHub](https://github.com/gongjuan96-crypto/jwan-photo-poem-poster) |
-| `jwan-wibi-frame` | 照片与复古漫画头像拼接 | [GitHub](https://github.com/gongjuan96-crypto/jwan-wibi-frame) |
-| `jwan-marker-child-diptych` | 儿童照片与马克笔插画拼接 | [GitHub](https://github.com/gongjuan96-crypto/jwan-marker-child-diptych) |
-| `jwan-minimal-pet-doodle` | 宠物照片与极简涂鸦拼接 | [GitHub](https://github.com/gongjuan96-crypto/jwan-minimal-pet-doodle) |
-| `documentary-color-collage-poster` | 黑白纪实照片与半透明色彩线稿 | [GitHub](https://github.com/gongjuan96-crypto/documentary-color-collage-poster) |
-| `jwan-dark-red-black-cel-shaded` | 暗红黑赛璐璐头像拼接 | [GitHub](https://github.com/gongjuan96-crypto/jwan-dark-red-black-cel-shaded) |
-| `jwan-fisheye-city-cover` | 鱼眼城市封面拼接 | [GitHub](https://github.com/gongjuan96-crypto/jwan-fisheye-city-cover) |
-| `jwan-alt-manga-avatar` | 照片与漫画头像拼接 | [GitHub](https://github.com/gongjuan96-crypto/jwan-alt-manga-avatar) |
-| `jwan-electric-blue-poster` | 电蓝半调肖像海报 | [GitHub](https://github.com/gongjuan96-crypto/jwan-electric-blue-poster) |
-| `jwan-tech-food-launch-poster` | 食物科技发布会海报 | [GitHub](https://github.com/gongjuan96-crypto/jwan-tech-food-launch-poster) |
-| `jwan-ink-overrun-editorial-poster` | 黑色水墨越界编辑海报 | [GitHub](https://github.com/gongjuan96-crypto/jwan-ink-overrun-editorial-poster) |
-| `jwan-culture-fragment-poster-engine` | 文化碎片编辑海报 | [GitHub](https://github.com/gongjuan96-crypto/jwan-culture-fragment-poster-engine) |
+| Skill | 用途 | 地址 | 版本 |
+| --- | --- | --- | --- |
+| `jwan-circular-cutout-story-poster` | 圆形照片切片故事海报 | [GitHub](https://github.com/gongjuan96-crypto/jwan-circular-cutout-story-poster) | — |
+| `jwan-photo-poem-poster` | 照片上半保真 + 下半小比例插画 + 诗意双语文案 | [GitHub](https://github.com/gongjuan96-crypto/jwan-photo-poem-poster) | v1.1.0 |
+| `jwan-wibi-frame` | 照片与复古漫画头像拼接 | [GitHub](https://github.com/gongjuan96-crypto/jwan-wibi-frame) | — |
+| `jwan-marker-child-diptych` | 儿童照片与马克笔插画拼接 | [GitHub](https://github.com/gongjuan96-crypto/jwan-marker-child-diptych) | — |
+| `jwan-minimal-pet-doodle` | 宠物照片与极简涂鸦拼接 | [GitHub](https://github.com/gongjuan96-crypto/jwan-minimal-pet-doodle) | — |
+| `documentary-color-collage-poster` | 黑白纪实照片与半透明色彩线稿 | [GitHub](https://github.com/gongjuan96-crypto/documentary-color-collage-poster) | — |
+| `jwan-dark-red-black-cel-shaded` | 暗红黑赛璐璐头像拼接 | [GitHub](https://github.com/gongjuan96-crypto/jwan-dark-red-black-cel-shaded) | — |
+| `jwan-fisheye-city-cover` | 鱼眼城市封面拼接 | [GitHub](https://github.com/gongjuan96-crypto/jwan-fisheye-city-cover) | — |
+| `jwan-alt-manga-avatar` | 照片与漫画头像拼接 | [GitHub](https://github.com/gongjuan96-crypto/jwan-alt-manga-avatar) | — |
+| `jwan-electric-blue-poster` | 电蓝半调肖像海报 | [GitHub](https://github.com/gongjuan96-crypto/jwan-electric-blue-poster) | — |
+| `jwan-tech-food-launch-poster` | 食物科技发布会海报 | [GitHub](https://github.com/gongjuan96-crypto/jwan-tech-food-launch-poster) | — |
+| `jwan-ink-overrun-editorial-poster` | 黑色水墨越界编辑海报 | [GitHub](https://github.com/gongjuan96-crypto/jwan-ink-overrun-editorial-poster) | — |
+| `jwan-culture-fragment-poster-engine` | 文化碎片编辑海报 | [GitHub](https://github.com/gongjuan96-crypto/jwan-culture-fragment-poster-engine) | — |
+| `jwan-original-to-badge-poster` | 原图 50:50 上下联 + 衍生徽章/钥匙扣，严格原片保真 | [Skill folder](https://github.com/gongjuan96-crypto/jwan-skills/tree/main/skills/jwan-original-to-badge-poster) | v1.0.0 |
+| `jwan-spatial-type-architecture-poster` | 把主标题变成可进入、穿越、遮挡的真实空间字体建筑 | [Skill folder](https://github.com/gongjuan96-crypto/jwan-skills/tree/main/skills/jwan-spatial-type-architecture-poster) | v1.0.0 |
+| `jwan-perspective-crowd-editorial-poster` | 多人透视纵深编辑广告：前中后景、遮挡、非平均排布 | [Skill folder](https://github.com/gongjuan96-crypto/jwan-skills/tree/main/skills/jwan-perspective-crowd-editorial-poster) | v1.0.0 |
 
 ## Install
 
@@ -43,6 +46,18 @@ Jwan 的可复用 AI Skill 总目录。每个 Skill 都是一个独立的 Markdo
 ### 豆包及不支持 Skill 文件夹的平台
 
 新建一个智能体，把 `SKILL.md` 粘贴到角色设定或系统提示词；每个智能体建议只安装一个 Skill，避免不同视觉规则互相冲突。
+
+## Recent high-quality Skills added 2026-09-23
+
+The latest pass intentionally promotes only workflows with repeatable inputs, hard constraints, failure modes, and regression tests. One-off prompts are not automatically turned into Skills.
+
+Each new Skill now includes:
+- `SKILL.md`
+- `README.md`
+- `TESTS.md`
+- `CHANGELOG.md`
+- `examples/README.md`
+- Jwan attribution and GitHub contact links
 
 ## Repository convention
 
