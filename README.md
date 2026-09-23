@@ -118,6 +118,15 @@ For commercial customization, brand collaboration, commissioned design, workflow
 
 如需商业定制、品牌合作、设计委托、工作流适配，或希望了解更多使用方式，欢迎联系 Jwan。
 
+
+### WeChat / 微信联系
+
+需要商用、定制、品牌合作、设计委托或想了解更多，可直接扫码联系 Jwan：
+
+[![Jwan WeChat contact](assets/jwan-wechat-contact.svg)](https://u.wechat.com/MJMydWwPFYpx-ZUAhUv6hj4?s=2)
+
+微信直达：https://u.wechat.com/MJMydWwPFYpx-ZUAhUv6hj4?s=2
+
 ## Example standard
 
 Every actively maintained Skill should include **at least 3 visual cases** when suitable:
