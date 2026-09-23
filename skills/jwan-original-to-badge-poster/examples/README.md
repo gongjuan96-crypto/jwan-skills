@@ -1,13 +1,36 @@
-# Example briefs
+# Example briefs — jwan-original-to-badge-poster
 
-## Example A — Landscape enamel pin
-One travel photo with a person small in the environment. Keep the full upper photo. Build one enamel pin below with the landscape as the main form and the person as a small proportional detail.
+## Case 01 — Travel landscape enamel pin
+- Top: original travel / landscape photo
+- Bottom: one centered enamel badge derived from the exact scene
+- Rule focus: landscape remains primary, small human figure keeps realistic source proportion
+- Goal: demonstrate strict 50:50 structure and scene-led derivative design
 
-## Example B — First birthday felt keychain
-One child photo. Upper half remains the original. Lower half contains one needle-felt derivative. No title by default.
+## Case 02 — Baby felt keychain
+- Top: original baby portrait
+- Bottom: one centered needle-felt / wool-felt keychain
+- Rule focus: no title by default, no collage, no extra props
+- Goal: demonstrate material translation while preserving recognizable age and clothing cues
 
-## Example C — Explicit commemorative title
-Same system, but user explicitly requests “陈书悦·周岁纪念”. Add only that requested title treatment; preserve everything else.
+## Case 03 — First-birthday embroidered badge
+- Top: original birthday photo
+- Bottom: one centered embroidered collectible
+- Rule focus: commemorative wording appears only when explicitly requested
+- Goal: demonstrate a controlled themed variant without changing the top source
 
-## Example D — Themed derivative
-User explicitly requests a small superhero-inspired visual cue in the lower derivative artwork. Do not modify the upper source photo.
+## Showcase rule
+
+Use at least 3 examples:
+1. standard demonstration
+2. Jwan-style representative work
+3. controlled variation / advanced case
+
+Suggested filenames:
+- `case-01.jpg`
+- `case-02.jpg`
+- `case-03.jpg`
+
+Created by **Jwan**.
+For commercial customization, brand collaboration, commissioned design, workflow adaptation, or more information, contact Jwan through:
+- GitHub: https://github.com/gongjuan96-crypto
+- Skill catalog: https://github.com/gongjuan96-crypto/jwan-skills
