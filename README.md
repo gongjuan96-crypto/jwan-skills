@@ -22,6 +22,9 @@ Jwan 的可复用 AI Skill 总目录。每个 Skill 都是一个独立的 Markdo
 | `jwan-original-to-badge-poster` | 原图 50:50 上下联 + 衍生徽章/钥匙扣，严格原片保真 | [Skill folder](https://github.com/gongjuan96-crypto/jwan-skills/tree/main/skills/jwan-original-to-badge-poster) | v1.0.0 |
 | `jwan-spatial-type-architecture-poster` | 把主标题变成可进入、穿越、遮挡的真实空间字体建筑 | [Skill folder](https://github.com/gongjuan96-crypto/jwan-skills/tree/main/skills/jwan-spatial-type-architecture-poster) | v1.0.0 |
 | `jwan-perspective-crowd-editorial-poster` | 多人透视纵深编辑广告：前中后景、遮挡、非平均排布 | [Skill folder](https://github.com/gongjuan96-crypto/jwan-skills/tree/main/skills/jwan-perspective-crowd-editorial-poster) | v1.0.0 |
+| `jwan-photo-art-diptych-poster` | 3:4 原片上联 + 下联旅行混合媒介 / 当代东亚水墨 | [Skill folder](https://github.com/gongjuan96-crypto/jwan-skills/tree/main/skills/jwan-photo-art-diptych-poster) | v1.0.0 |
+| `jwan-fashion-identity-triptych-poster` | 同一人物三联高定肖像：侧脸 / 正脸 / 反侧脸，严格身份一致 | [Skill folder](https://github.com/gongjuan96-crypto/jwan-skills/tree/main/skills/jwan-fashion-identity-triptych-poster) | v1.0.0 |
+| `jwan-pressure-crowd-editorial-poster` | 中心人物被高密人群包围的压力 / 冲突意见编辑广告 | [Skill folder](https://github.com/gongjuan96-crypto/jwan-skills/tree/main/skills/jwan-pressure-crowd-editorial-poster) | v1.0.0 |
 
 ## Install
 
@@ -48,6 +51,24 @@ Jwan 的可复用 AI Skill 总目录。每个 Skill 都是一个独立的 Markdo
 新建一个智能体，把 `SKILL.md` 粘贴到角色设定或系统提示词；每个智能体建议只安装一个 Skill，避免不同视觉规则互相冲突。
 
 ## Recent high-quality Skills added 2026-09-23
+
+Second pass added three additional reusable systems:
+- photo-to-art diptych with two controlled rendering modes
+- identity-stable three-panel fashion portrait
+- central-protagonist pressure-crowd editorial metaphor
+
+These were promoted because they have stable input/output structure, hard constraints, clear revision behavior, and regression tests.
+
+### Selection rule
+
+A visually successful one-off prompt is not automatically a Skill. Promote it only when it has:
+1. repeatable input conditions
+2. stable composition or visual mechanism
+3. explicit failure modes
+4. controllable revision behavior
+5. enough differentiation from existing Skills
+
+
 
 The latest pass intentionally promotes only workflows with repeatable inputs, hard constraints, failure modes, and regression tests. One-off prompts are not automatically turned into Skills.
 
