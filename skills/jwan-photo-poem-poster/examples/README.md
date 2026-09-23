@@ -1,15 +1,38 @@
-# Example briefs
+# Example briefs — jwan-photo-poem-poster
 
-These examples are text-only public test briefs. Do not commit a user's private source photo without permission.
+These examples demonstrate the stable Jwan photo-poem system. Public examples should not include private source photos without permission.
 
-## Example A — Growing together
-One family photo. Preserve the upper photo. Lower illustration echoes the same interaction, small and centered with generous empty space. Short Chinese line about growing together; smaller English companion line.
+## Case 01 — 一起长大
+- Upper: warm parent-child walking photo
+- Lower: smaller hand-drawn memory illustration with subtle window / greenery cue
+- Copy: short Chinese line about growing together + smaller English companion
+- Goal: demonstrate source fidelity, emotional continuity, negative space, and restrained typography
 
-## Example B — A little sweetness
-One child or food-sharing photo. Keep the upper photo faithful. Lower drawing uses restrained warm paper texture. Keep copy small and natural.
+## Case 02 — 我是小学生
+- Upper: school-day portrait
+- Lower: smaller illustration preserving backpack, uniform cues, age, and expression
+- Copy: school / courage theme
+- Goal: demonstrate identity consistency and topic-specific copy
 
-## Example C — Brave / school day
-One child photo. Theme: "我是小学生" or "勇敢一点". Offer three concise Chinese lines first, then generate the selected version.
+## Case 03 — 飞起来
+- Upper: child lifted or jumping with family
+- Lower: smaller illustration preserving the gesture, with light sky / window / distant-scene cue
+- Copy: concise “fly / grow / courage” direction
+- Goal: demonstrate dynamic action while keeping the lower image light and spacious
 
-## Example D — Flying
-Photo shows a child being lifted or jumping. Lower illustration preserves the gesture, stays small, and may include a subtle window or outdoor background cue. Avoid fantasy wings unless explicitly requested.
+## Showcase rule
+
+A public Skill should include at least 3 rendered examples:
+1. standard demonstration
+2. Jwan-style representative work
+3. controlled variation / advanced case
+
+Suggested filenames:
+- `case-01.jpg`
+- `case-02.jpg`
+- `case-03.jpg`
+
+Created by **Jwan**.
+For commercial customization, brand collaboration, commissioned design, workflow adaptation, or more information, contact Jwan through:
+- GitHub: https://github.com/gongjuan96-crypto
+- Skill catalog: https://github.com/gongjuan96-crypto/jwan-skills
