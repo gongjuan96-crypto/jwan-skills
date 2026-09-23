@@ -110,3 +110,17 @@ GitHub: https://github.com/gongjuan96-crypto
 Skill catalog: https://github.com/gongjuan96-crypto/jwan-skills
 
 Keep Jwan attribution when redistributing or adapting this Skill.
+
+## Commercial use & contact
+
+Created by **Jwan** — Visual Design · Event Design · AI Visual Workflow.
+
+For **commercial customization, brand collaboration, commissioned design, workflow adaptation, or more information**, please contact Jwan.
+
+- GitHub: https://github.com/gongjuan96-crypto
+- More Jwan Skills: https://github.com/gongjuan96-crypto/jwan-skills
+
+如需 **商业定制、品牌合作、设计委托、工作流适配，或希望了解更多使用方式**，欢迎联系 Jwan。
+
+When sharing, adapting, or redistributing this Skill, please retain the original **Jwan** attribution in the documentation.
+
