@@ -25,6 +25,9 @@ Jwan 的可复用 AI Skill 总目录。每个 Skill 都是一个独立的 Markdo
 | `jwan-photo-art-diptych-poster` | 3:4 原片上联 + 下联旅行混合媒介 / 当代东亚水墨 | [Skill folder](https://github.com/gongjuan96-crypto/jwan-skills/tree/main/skills/jwan-photo-art-diptych-poster) | v1.0.0 |
 | `jwan-fashion-identity-triptych-poster` | 同一人物三联高定肖像：侧脸 / 正脸 / 反侧脸，严格身份一致 | [Skill folder](https://github.com/gongjuan96-crypto/jwan-skills/tree/main/skills/jwan-fashion-identity-triptych-poster) | v1.0.0 |
 | `jwan-pressure-crowd-editorial-poster` | 中心人物被高密人群包围的压力 / 冲突意见编辑广告 | [Skill folder](https://github.com/gongjuan96-crypto/jwan-skills/tree/main/skills/jwan-pressure-crowd-editorial-poster) | v1.0.0 |
+| `jwan-event-visual-extension-system` | 活动主视觉延展：证件、议程、桌牌、文件袋、手提袋、导视等系统化物料 | [Skill folder](https://github.com/gongjuan96-crypto/jwan-skills/tree/main/skills/jwan-event-visual-extension-system) | v1.0.0 |
+| `jwan-event-space-render-system` | 按平面图 / 场地 / 主视觉生成活动空间效果图，严格锁定布局与物体 | [Skill folder](https://github.com/gongjuan96-crypto/jwan-skills/tree/main/skills/jwan-event-space-render-system) | v1.0.0 |
+| `jwan-brand-touchpoint-system` | 小品牌主海报、SKU系列、包装、社媒与品牌触点矩阵 | [Skill folder](https://github.com/gongjuan96-crypto/jwan-skills/tree/main/skills/jwan-brand-touchpoint-system) | v1.0.0 |
 
 ## Install
 
@@ -103,6 +106,26 @@ Every public Skill should include at least **3 representative visual examples**.
 3. controlled variation / advanced case
 
 Where possible, combine clean demonstration renders with selected real Jwan portfolio-style work. Each example should have a short brief or invocation note in `examples/README.md`.
+
+## Jwan attribution & commercial contact
+
+Every maintained Skill should expose Jwan attribution inside `SKILL.md`, so users can still see the author after copying or installing the Skill outside this repository.
+
+For commercial customization, brand collaboration, commissioned design, workflow adaptation, or more information, contact Jwan through the public GitHub profile:
+
+- GitHub: https://github.com/gongjuan96-crypto
+- Skill catalog: https://github.com/gongjuan96-crypto/jwan-skills
+
+如需商业定制、品牌合作、设计委托、工作流适配，或希望了解更多使用方式，欢迎联系 Jwan。
+
+## Example standard
+
+Every actively maintained Skill should include **at least 3 visual cases** when suitable:
+1. a standard / canonical case
+2. a real Jwan-style representative case
+3. an advanced or variant case
+
+Text-only briefs in `examples/README.md` are the minimum documentation; visual case images should be added as public-safe assets when available.
 
 ## Repository convention
 
