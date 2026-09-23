@@ -80,6 +80,30 @@ Each new Skill now includes:
 - `examples/README.md`
 - Jwan attribution and GitHub contact links
 
+
+## Author, commercial use & contact
+
+All Skills in this catalog are created or maintained by **Jwan**.
+
+For **commercial customization, brand collaboration, commissioned design, workflow adaptation, or more information**, please contact Jwan.
+
+如需 **商业定制、品牌合作、设计委托、工作流适配，或希望了解更多使用方式**，欢迎联系 Jwan。
+
+- GitHub: https://github.com/gongjuan96-crypto
+- Skill catalog: https://github.com/gongjuan96-crypto/jwan-skills
+
+Each public Skill should retain Jwan attribution in its documentation. Visual outputs may include a small bottom-right `Jwan` signature by default when the Skill's visual system supports it.
+
+## Example-image standard
+
+Every public Skill should include at least **3 representative visual examples**. Preferred composition:
+
+1. standard demonstration of the core mechanism
+2. Jwan-style representative work
+3. controlled variation / advanced case
+
+Where possible, combine clean demonstration renders with selected real Jwan portfolio-style work. Each example should have a short brief or invocation note in `examples/README.md`.
+
 ## Repository convention
 
 每个独立仓库保持以下结构：
