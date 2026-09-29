@@ -16,9 +16,9 @@ Jwan 的可复用 AI Skill 总目录。每个 Skill 都是一个独立的 Markdo
 | `jwan-fisheye-city-cover` | 鱼眼城市封面拼接 | [GitHub](https://github.com/gongjuan96-crypto/jwan-fisheye-city-cover) | — |
 | `jwan-alt-manga-avatar` | 照片与漫画头像拼接 | [GitHub](https://github.com/gongjuan96-crypto/jwan-alt-manga-avatar) | — |
 | `jwan-electric-blue-poster` | 电蓝半调肖像海报 | [GitHub](https://github.com/gongjuan96-crypto/jwan-electric-blue-poster) | — |
-| `jwan-tech-food-launch-poster` | 食物科技发布会海报 | [GitHub](https://github.com/gongjuan96-crypto/jwan-tech-food-launch-poster) | — |
-| `jwan-ink-overrun-editorial-poster` | 黑色水墨越界编辑海报 | [GitHub](https://github.com/gongjuan96-crypto/jwan-ink-overrun-editorial-poster) | — |
-| `jwan-culture-fragment-poster-engine` | 文化碎片编辑海报 | [GitHub](https://github.com/gongjuan96-crypto/jwan-culture-fragment-poster-engine) | — |
+| `jwan-tech-food-launch-poster` | 食物科技发布会海报 | [GitHub](https://github.com/gongjuan96-crypto/jwan-tech-food-launch-poster) | v1.0.0 |
+| `jwan-ink-overrun-editorial-poster` | 黑色水墨越界编辑海报 | [GitHub](https://github.com/gongjuan96-crypto/jwan-ink-overrun-editorial-poster) | v1.0.0 |
+| `jwan-culture-fragment-poster-engine` | 文化碎片编辑海报 | [GitHub](https://github.com/gongjuan96-crypto/jwan-culture-fragment-poster-engine) | v1.0.0 |
 | `jwan-original-to-badge-poster` | 原图 50:50 上下联 + 衍生徽章/钥匙扣，严格原片保真 | [Skill folder](https://github.com/gongjuan96-crypto/jwan-skills/tree/main/skills/jwan-original-to-badge-poster) | v1.0.0 |
 | `jwan-spatial-type-architecture-poster` | 把主标题变成可进入、穿越、遮挡的真实空间字体建筑 | [Skill folder](https://github.com/gongjuan96-crypto/jwan-skills/tree/main/skills/jwan-spatial-type-architecture-poster) | v1.0.0 |
 | `jwan-perspective-crowd-editorial-poster` | 多人透视纵深编辑广告：前中后景、遮挡、非平均排布 | [Skill folder](https://github.com/gongjuan96-crypto/jwan-skills/tree/main/skills/jwan-perspective-crowd-editorial-poster) | v1.0.0 |
@@ -143,8 +143,11 @@ Text-only briefs in `examples/README.md` are the minimum documentation; visual c
 ```text
 SKILL.md
 README.md
+TESTS.md
+CHANGELOG.md
 LICENSE
 examples/
+  README.md
 ```
 
 案例图是公开展示素材，不包含用户原始照片文件。
