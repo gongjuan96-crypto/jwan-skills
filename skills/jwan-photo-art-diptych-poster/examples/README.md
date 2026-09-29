@@ -1,5 +1,7 @@
 # Example briefs
 
+Rendered example: [case-01.png](case-01.png)
+
 ## Example A — Travel architecture
 One city or travel photo. Preserve the top photo. Lower half uses ink line, dry brush, watercolor blocks, four to six spot colors and light torn-paper texture.
 

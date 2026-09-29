@@ -1,5 +1,7 @@
 # Example briefs
 
+Rendered example: [case-01.png](case-01.png)
+
 ## Example A — Nested frames
 9:16, 7 adults, large white frames, three clear depth layers, strong side light, people crossing and partially hiding behind structures.
 

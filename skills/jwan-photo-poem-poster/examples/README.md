@@ -1,5 +1,7 @@
 # Example briefs — jwan-photo-poem-poster
 
+Rendered example: [case-01.png](case-01.png)
+
 These examples demonstrate the stable Jwan photo-poem system. Public examples should not include private source photos without permission.
 
 ## Case 01 — 一起长大
@@ -28,9 +30,9 @@ A public Skill should include at least 3 rendered examples:
 3. controlled variation / advanced case
 
 Suggested filenames:
-- `case-01.jpg`
-- `case-02.jpg`
-- `case-03.jpg`
+- `case-01.png`
+- `case-02.png`
+- `case-03.png`
 
 Created by **Jwan**.
 For commercial customization, brand collaboration, commissioned design, workflow adaptation, or more information, contact Jwan through:

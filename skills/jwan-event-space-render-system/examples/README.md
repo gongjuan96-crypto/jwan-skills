@@ -1,5 +1,7 @@
 # Example briefs
 
+Rendered example: [case-01.png](case-01.png)
+
 ## Case 01 — Conference corridor + hall
 Floor plan contains a corridor separated from the meeting hall by one complete wall with two doors. Sign-in and photo zones sit along the corridor wall. Preserve all circulation.
 

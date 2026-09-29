@@ -1,5 +1,7 @@
 # Example briefs
 
+Rendered example: [case-01.png](case-01.png)
+
 ## Case 01 — Handmade pastry brand
 Hero poster plus three flavor variants, packaging and social cover. Keep one warm restrained visual system.
 

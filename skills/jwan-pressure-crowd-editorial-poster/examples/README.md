@@ -1,5 +1,7 @@
 # Example briefs — jwan-pressure-crowd-editorial-poster
 
+Rendered example: [case-01.png](case-01.png)
+
 ## Case 01 — Design feedback overload
 - Central protagonist: designer at a monitor, back / three-quarter back to viewer
 - Crowd: dense, layered, conflicting gestures
@@ -26,9 +28,9 @@ Use at least 3 examples:
 3. controlled profession / color / density variation
 
 Suggested filenames:
-- `case-01.jpg`
-- `case-02.jpg`
-- `case-03.jpg`
+- `case-01.png`
+- `case-02.png`
+- `case-03.png`
 
 Created by **Jwan**.
 For commercial customization, brand collaboration, commissioned design, workflow adaptation, or more information, contact Jwan through:

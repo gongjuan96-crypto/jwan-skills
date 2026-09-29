@@ -1,5 +1,7 @@
 # Example briefs
 
+Rendered example: [case-01.png](case-01.png)
+
 ## Example A — JWAN / giant letters
 9:16, matte white architectural letters, 4 adults at different depths, strong side light, clean gallery space.
 

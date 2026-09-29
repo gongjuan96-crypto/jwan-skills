@@ -1,5 +1,7 @@
 # Example briefs
 
+Rendered example: [case-01.png](case-01.png)
+
 ## Example A — Minimal luxury
 One portrait reference. Warm off-white background. Three angles. Each panel uses a different restrained hat and eyewear combination.
 

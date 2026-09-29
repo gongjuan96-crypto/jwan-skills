@@ -1,5 +1,7 @@
 # Example briefs
 
+Rendered example: [case-01.png](case-01.png)
+
 ## Case 01 — Conference material family
 Input: one approved conference key visual.
 Outputs: staff / guest / media / attendee badges, agenda, seat nameplate, folder, tote, notebook.

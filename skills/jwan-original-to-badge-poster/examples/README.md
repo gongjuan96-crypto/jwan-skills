@@ -1,5 +1,7 @@
 # Example briefs — jwan-original-to-badge-poster
 
+Rendered example: [case-01.png](case-01.png)
+
 ## Case 01 — Travel landscape enamel pin
 - Top: original travel / landscape photo
 - Bottom: one centered enamel badge derived from the exact scene
@@ -26,9 +28,9 @@ Use at least 3 examples:
 3. controlled variation / advanced case
 
 Suggested filenames:
-- `case-01.jpg`
-- `case-02.jpg`
-- `case-03.jpg`
+- `case-01.png`
+- `case-02.png`
+- `case-03.png`
 
 Created by **Jwan**.
 For commercial customization, brand collaboration, commissioned design, workflow adaptation, or more information, contact Jwan through:
