@@ -6,6 +6,7 @@ Jwan 的可复用 AI Skill 总目录。每个 Skill 都是一个独立的 Markdo
 
 | Skill | 用途 | 地址 | 版本 |
 | --- | --- | --- | --- |
+| `jwan-photo-doodle-editorial-split` | 3:4 原片保真 × 大留白稚拙手绘编辑海报，默认 Jwan 署名 | [Skill folder](https://github.com/gongjuan96-crypto/jwan-skills/tree/main/skills/jwan-photo-doodle-editorial-split) | v1.0.0 |
 | `jwan-circular-cutout-story-poster` | 圆形照片切片故事海报 | [GitHub](https://github.com/gongjuan96-crypto/jwan-circular-cutout-story-poster) | — |
 | `jwan-photo-poem-poster` | 照片上半保真 + 下半小比例插画 + 诗意双语文案 | [GitHub](https://github.com/gongjuan96-crypto/jwan-photo-poem-poster) | v1.1.0 |
 | `jwan-wibi-frame` | 照片与复古漫画头像拼接 | [GitHub](https://github.com/gongjuan96-crypto/jwan-wibi-frame) | — |
